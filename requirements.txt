@@ -4,4 +4,4 @@ scikit_learn==0.20.3
 joblib==0.13.2
 sqlalchemy
 mysql-connector-python
-jupyter
+jupyte
