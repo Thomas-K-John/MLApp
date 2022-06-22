@@ -1,4 +1,4 @@
-numpy==1.15.4
+numpy==1.22.0
 pandas==1.1.0
 scikit_learn==0.20.3
 joblib==0.13.2
