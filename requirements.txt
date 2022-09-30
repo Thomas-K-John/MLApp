@@ -1,7 +1,7 @@
 numpy==1.15.4
 pandas==1.1.0
 scikit_learn==0.20.3
-joblib==0.13.2
+joblib==1.2.0
 sqlalchemy
 mysql-connector-python
 jupyte
